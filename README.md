@@ -1,4 +1,4 @@
-#¡Holaa! Soy Edgar Daniel 👋
+# ¡Holaa! Soy Edgar Daniel 👋
 
 Soy estudiante de Ingeniería en Ciencias Computacionales en la UdeG, graduado de un Bachillerato Tecnológico en Desarrollo de Software de la misma institución. 
 Radico en El Salto, Jalisco. Me apasiona el desarrollo de software, así como el aprendizaje continuo sobre tecnología y estándares de seguridad.
