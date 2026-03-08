@@ -30,6 +30,7 @@ Radico en El Salto, Jalisco. Me apasiona el desarrollo de software, así como el
 ### Contáctame
 * [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) **LinkedIn:** [www.linkedin.com/in/edgar-perez-hped]
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) **Email:** [mailto:hped.edgarperez@gmail.com]
+* [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#) **Gitlab:** [https://gitlab.com/hped]
 
 ---
 
